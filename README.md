@@ -1,5 +1,8 @@
 # Movies-ETL.
 Overview:
+
+large data files are stored in the below google drive:
+https://drive.google.com/drive/folders/1ITGvUw5WjF0wlU5WpJBFF7gB8BvBcTKR?usp=sharing
  
  The purpose of this challenge was to create an automated ETL process for the classwork we did earlier. The script takes in data from Wikipedia and Kaggle. It then gets cleaned to a format that we have specified. It merges the data as well once cleaned. Once this is done, it is uploaded to a SQL database for future use 
  
